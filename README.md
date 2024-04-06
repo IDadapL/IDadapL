@@ -2,8 +2,8 @@
 - 👀 I’m interested in web development 
 - 🌱 I’m currently learning html & css
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
+- 📫 How to reach me: Discord: @mini_chel
+- 😄 Pronouns: He
 - ⚡ Fun fact: my favourite food: pizza
 - 🧠 I'm already learned: c#
 - 
